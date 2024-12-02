@@ -5,7 +5,7 @@ def superfunc():
     print('У меня свои принты')
 
 def main():
-    print('произошел пон')
+    print('произошел непон чо')
 
 
 if __name__ == "__main__":
