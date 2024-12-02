@@ -1,5 +1,5 @@
 def main():
-    print('My first git-repo')
+    print('произошел пон')
 
 
 if __name__ == "__main__":
